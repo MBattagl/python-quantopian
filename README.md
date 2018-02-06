@@ -1,1 +1,1 @@
-Slides rendered here: [Slides](mbattagl.github.io/python-quantopian)
+Slides rendered here: [Slides](https://mbattagl.github.io/python-quantopian)
